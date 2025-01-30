@@ -1,1 +1,1 @@
-# Some refernce papers on Optically Transparent Patch Antennas
+# Some reference papers on Optically Transparent Patch Antennas
